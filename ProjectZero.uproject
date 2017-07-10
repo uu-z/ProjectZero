@@ -3,8 +3,6 @@
 	"EngineAssociation": "4.16",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-	],
 	"Plugins": [
 		{
 			"Name": "Substance",
