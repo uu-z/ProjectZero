@@ -17,6 +17,10 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "Game",
+			"Enabled": false
 		}
 	]
 }
