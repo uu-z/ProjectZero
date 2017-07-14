@@ -1,0 +1,8 @@
+[submodule "Plugins/Achieve"]
+	path = Plugins/Achieve
+[submodule "Plugins/InteractionSys"]
+	path = Plugins/InteractionSys
+[submodule "Plugins/Physical"]
+	path = Plugins/Physical
+[submodule "Plugins/UISys"]
+	path = Plugins/UISys
