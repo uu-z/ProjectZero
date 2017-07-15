@@ -10,3 +10,6 @@
 [submodule "Plugins/AISys"]
 	path = Plugins/AISys
 	url = https://github.com/liliil/AISys
+[submodule "Plugins/ren"]
+	path = Plugins/ren
+	url = https://github.com/liliil/ren
