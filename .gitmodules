@@ -1,7 +1,12 @@
 [submodule "Plugins/InteractionSys"]
 	path = Plugins/InteractionSys
+	url = https://github.com/liliil/InteractionSys
 [submodule "Plugins/UISys"]
 	path = Plugins/UISys
+	url = https://github.com/liliil/UISys
 [submodule "Plugins/PlayerSys"]
 	path = Plugins/PlayerSys
 	url = https://github.com/liliil/PlayerSys
+[submodule "Plugins/AISys"]
+	path = Plugins/AISys
+	url = https://github.com/liliil/AISys
