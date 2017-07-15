@@ -13,3 +13,6 @@
 [submodule "Plugins/ren"]
 	path = Plugins/ren
 	url = https://github.com/liliil/ren
+[submodule "Plugins/InventorySys"]
+	path = Plugins/InventorySys
+	url = https://github.com/liliil/InventorySys
