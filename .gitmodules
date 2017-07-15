@@ -6,3 +6,6 @@
 	path = Plugins/Physical
 [submodule "Plugins/UISys"]
 	path = Plugins/UISys
+[submodule "Plugins/PlayerSys"]
+	path = Plugins/PlayerSys
+	url = https://github.com/liliil/PlayerSys
