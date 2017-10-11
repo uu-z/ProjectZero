@@ -16,3 +16,10 @@
 [submodule "Plugins/InventorySys"]
 	path = Plugins/InventorySys
 	url = https://github.com/liliil/InventorySys
+[submodule "Plugins/Template"]
+	path = Plugins/Template
+	url = https://github.com/liliil/Template
+
+[submodule "Plugins/SettingSys"]
+	path = Plugins/SettingSys
+	url = https://liliil@github.com/liliil/SettingSys

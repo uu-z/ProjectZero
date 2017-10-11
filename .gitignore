@@ -10,3 +10,8 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+Plugins/AdvKitPlugin/
+Plugins/DialogueSystem
+Content/ThirdParty/*
+

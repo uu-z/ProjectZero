@@ -21,6 +21,14 @@
 		{
 			"Name": "Game",
 			"Enabled": false
+		},
+		{
+			"Name": "ActorSequenceEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	]
 }
